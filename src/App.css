@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+.first-section{
+  background-color: navajowhite;
+  width: 60%;
+}
+.second-section{
+  background-color: rgb(173, 255, 174);
+  width: 40%;
+}
+.total-section{
+  display: flex;
+  height: 100px;
+  width: 350px;
+  background-color: aqua;
+  border: 10px solid rgb(8, 0, 255);
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.image img{
+  width: 100px;
+  height: 100px;
+}
+.button{
+  margin-left: 50px;
+  height: 30px;
+  color: rgb(179, 250, 255);
+  background-color: rgb(0, 39, 180);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.name{
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: 50px;
+}
+.and-other{
+  background-color: rgb(255, 4, 238);
+  border: 10px solid rgb(255, 4, 238);
+  color: aqua;
+}
+.request{
+  margin-left: 50px;
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+}
+h1{
+  color: rgb(255, 0, 225);
+}
